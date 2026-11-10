@@ -10,18 +10,18 @@ Each link leads to a repository containing my contributions and a link to the te
 
 **[Beyond CNN: Feature-map shifts](https://github.com/yeopgee/beyond-cnn-shift-operators)** · Fall 2025
 
-- **Team:** Explored ways to widen CNN spatial context without attention or large convolution kernels.
-- **My contribution:** Implemented random, deterministic, and learnable feature-map shifts and evaluated their effects on effective receptive fields and classification accuracy.
+- **Team:** Motivated by the success of vision transformers, explored ways to improve CNNs while retaining their inductive biases.
+- **My contribution:** Proposed and implemented random, deterministic, and learnable feature-map shifts before selected stages of ResNet-18. Conducted controlled experiments on CIFAR-100 and visualized effective receptive fields.
 
 **[Dog age transformation](https://github.com/yeopgee/dog-age-conditional-gan)** · Summer 2025
 
-- **Team:** Investigated age-conditioned transformation of dog photographs, motivated by missing-dog searches.
-- **My contribution:** Led the project, implemented conditional GAN variants, and used latent optimization with pixelwise and perceptual losses to reconstruct input images before changing their age condition.
+- **Team:** Investigated age-conditional GANs to transform dog photographs to reflect age-related changes, with the aim of helping owners find missing dogs.
+- **My contribution:** Led the project, implemented a conditional GAN, and optimized latent vectors with pixelwise and VGG-based perceptual losses to reconstruct input images before changing their age condition.
 
 **[Two-way Korean Sign Language translation](https://github.com/yeopgee/sign-language-keypoint-translation)** · Spring 2025
 
 - **Team:** Aimed to develop a system for translating between Korean Sign Language and Korean text.
-- **My contribution:** Built the keypoint-to-text pipeline with a BiGRU encoder and attention-based decoder.
+- **My contribution:** Developed the sign-to-text component by preprocessing keypoints, augmenting sequences through temporal sampling, and replacing unique expressions with placeholder tokens. Implemented a BiGRU encoder and attention-based decoder.
 
 **[DACON fraudulent listing detection](https://github.com/yeopgee/dacon-fraudulent-listings)** · Winter 2025
 

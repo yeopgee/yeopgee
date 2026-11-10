@@ -1,7 +1,7 @@
 ## Education
 
-- **M.S. in Mathematical Statistics**, Korea University (expected February 2027)
-- **B.S. in Statistics and Mathematics**, Korea University (2025)
+- **M.S. in Mathematical Statistics**, Korea University (Sep. 2025--Feb. 2027)
+- **B.S. in Statistics and Mathematics**, Korea University (March 2019--August 2025)
 
 ## Selected Projects
 

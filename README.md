@@ -1,5 +1,3 @@
-# Jiyeop Kim
-
 ## Education
 
 - **M.S. in Mathematical Statistics**, Korea University (expected February 2027)

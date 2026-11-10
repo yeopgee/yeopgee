@@ -5,7 +5,8 @@
 
 ## Selected Projects
 
-The following projects were completed through KUBIG (Korea University Data Science & AI Society). Each link leads to a repository containing my contributions and a link to the team's work.
+The following projects were completed through KUBIG (Korea University Data Science & AI Society). 
+Each link leads to a repository containing my contributions and a link to the team's work.
 
 **[Beyond CNN: Feature-map shifts](https://github.com/yeopgee/beyond-cnn-shift-operators)** · Fall 2025
 - **Team:** Explored ways to widen CNN spatial context without attention or large convolution kernels.

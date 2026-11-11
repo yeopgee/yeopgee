@@ -3,6 +3,11 @@
 - **M.S. in Mathematical Statistics**, Korea University (Sep. 2025–Feb. 2027)
 - **B.S. in Statistics and Mathematics**, Korea University (Mar. 2019–Aug. 2025)
 
+## Research Experience
+
+Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
+SIR, SAVE, and PHD.
+
 ## Selected Projects
 
 The following projects were completed through **KUBIG** (Korea University Data Science & AI Society).  

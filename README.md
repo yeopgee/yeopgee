@@ -30,6 +30,8 @@ Each link leads to a repository containing my contributions and a link to the te
 
 ## Research Experience
 
+### Sparse Sufficient Dimension Reduction for Block-Missing Multimodal Data
+
 - Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
 SIR, SAVE, and PHD.
 - Adapted separate shrinkage of within- and cross-modality covariances, used the resulting estimates to construct method-specific kernels, and integrated them with a common sparse dimension-reduction solver.

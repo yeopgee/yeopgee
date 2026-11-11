@@ -29,7 +29,6 @@ Each link leads to a repository containing my contributions and a link to the te
 - **My contribution:** Conducted exploratory data analysis, engineered features, and tuned an XGBoost classifier.
 
 ## Research Experience
-
 ### Sparse Sufficient Dimension Reduction for Block-Missing Multimodal Data
 
 - Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting

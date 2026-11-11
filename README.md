@@ -5,8 +5,10 @@
 
 ## Research Experience
 
-Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
+- Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
 SIR, SAVE, and PHD.
+- Adapted separate shrinkage of within- and cross-modality covariances, used the resulting estimates to construct method-specific kernels, and integrated them with a common sparse dimension-reduction solver.
+- Developed a tuning criterion based on held-out prediction error using projected covariates, applying orthonormalization to make the criterion invariant to the choice of basis for distance-based predictors.
 
 ## Selected Projects
 

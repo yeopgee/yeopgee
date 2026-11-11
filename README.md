@@ -34,3 +34,5 @@ Each link leads to a repository containing my contributions and a link to the te
 SIR, SAVE, and PHD.
 - Adapted separate shrinkage of within- and cross-modality covariances, used the resulting estimates to construct method-specific kernels, and integrated them with a common sparse dimension-reduction solver.
 - Developed a tuning criterion based on held-out prediction error using projected covariates, applying orthonormalization to make the criterion invariant to the choice of basis for distance-based predictors.
+- The method achieved lower projection error than competing methods across varying covariance structures,
+missingness patterns, and response models, and was applied to multimodal clinical data from ADNI.

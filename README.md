@@ -34,4 +34,4 @@ Each link leads to a repository containing my contributions and a link to the te
 *Manuscript in preparation*
 
 - Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
-SIR, SAVE, and PHD.
+SIR, SAVE, and PHD, adapting separate shrinkage of within- and cross-modality covariances and developing a tuning criterion based on held-out prediction error using projected covariates

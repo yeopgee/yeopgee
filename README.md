@@ -26,4 +26,4 @@ Each link leads to a repository containing my contributions and a link to the te
 **[DACON fraudulent listing detection](https://github.com/yeopgee/dacon-fraudulent-listings)** · Winter 2025
 
 - **Team:** Explored models for identifying fraudulent real estate listings from tabular data.
-- **My contribution:** Conducted exploratory data analysis, engineered listing and agency-risk features, and tuned an XGBoost classifier.
+- **My contribution:** Conducted exploratory data analysis, engineered features, and tuned an XGBoost classifier.

@@ -21,7 +21,7 @@ Each link leads to a repository containing my contributions and a link to the te
 **[Two-Way Korean Sign Language Translation from Human Keypoints](https://github.com/yeopgee/sign-language-keypoint-translation)** · Spring 2025
 
 - **Team:** Aimed to develop a system for translating between Korean Sign Language and Korean text.
-- **My contribution:**  Implemented the sign-to-text component using a BiGRU encoder and a GRU decoder with attention. Preprocessed keypoints, augmented sequences through temporal sampling, and replaced time, location, and address expressions with placeholders.
+- **My contribution:**  Implemented the sign-to-text component using a BiGRU encoder and a GRU decoder with attention. Preprocessed keypoints, augmented sequences through temporal sampling, and standardize expressions with placeholders.
 
 **[DACON fraudulent listing detection](https://github.com/yeopgee/dacon-fraudulent-listings)** · Winter 2025
 

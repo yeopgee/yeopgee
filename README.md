@@ -3,13 +3,6 @@
 - **M.S. in Mathematical Statistics**, Korea University (Sep. 2025–Feb. 2027)
 - **B.S. in Statistics and Mathematics**, Korea University (Mar. 2019–Aug. 2025)
 
-## Research Experience
-
-- Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
-SIR, SAVE, and PHD.
-- Adapted separate shrinkage of within- and cross-modality covariances, used the resulting estimates to construct method-specific kernels, and integrated them with a common sparse dimension-reduction solver.
-- Developed a tuning criterion based on held-out prediction error using projected covariates, applying orthonormalization to make the criterion invariant to the choice of basis for distance-based predictors.
-
 ## Selected Projects
 
 The following projects were completed through **KUBIG** (Korea University Data Science & AI Society).  
@@ -34,3 +27,10 @@ Each link leads to a repository containing my contributions and a link to the te
 
 - **Team:** Explored models for identifying fraudulent real estate listings from tabular data.
 - **My contribution:** Conducted exploratory data analysis, engineered features, and tuned an XGBoost classifier.
+
+## Research Experience
+
+- Designed a sparse sufficient dimension-reduction framework for block-missing multimodal data, supporting
+SIR, SAVE, and PHD.
+- Adapted separate shrinkage of within- and cross-modality covariances, used the resulting estimates to construct method-specific kernels, and integrated them with a common sparse dimension-reduction solver.
+- Developed a tuning criterion based on held-out prediction error using projected covariates, applying orthonormalization to make the criterion invariant to the choice of basis for distance-based predictors.

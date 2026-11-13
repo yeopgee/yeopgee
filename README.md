@@ -18,7 +18,7 @@ Each link leads to a repository containing my contributions and a link to the te
 - **Team:** Investigated age-conditional GANs to transform dog photographs to reflect age-related changes, with the aim of helping owners find missing dogs.
 - **My contribution:** Implemented a conditional GAN and used latent-vector optimization with pixelwise and VGG-based perceptual losses to preserve the dog's identity while changing its apparent age.
 
-**[Two-Way Korean Sign Language Translation from Human Keypoints](https://github.com/yeopgee/sign-language-keypoint-translation)** · Spring 2025
+**[Korean Sign Language Translation from Human Keypoints](https://github.com/yeopgee/sign-language-keypoint-translation)** · Spring 2025
 
 - **Team:** Aimed to develop a system for translating between Korean Sign Language and Korean text.
 - **My contribution:**  Implemented the sign-to-text component using a BiGRU encoder and a GRU decoder with attention. Preprocessed keypoints, augmented sequences through temporal sampling, and standardize expressions with placeholders.

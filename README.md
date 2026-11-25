@@ -13,15 +13,15 @@ Each link leads to a repository containing my contributions and a link to the te
 - **Team:** Motivated by the success of vision transformers, explored ways to improve CNNs while retaining their inductive biases.
 - **My contribution:** Proposed and implemented random, deterministic, and learnable feature-map shifts before selected stages of ResNet-18. Conducted controlled experiments on CIFAR-100 and visualized effective receptive fields.
 
-**[Dog Age Transformation with an Age-Conditional GAN](https://github.com/yeopgee/dog-age-conditional-gan)** · Summer 2025
-
-- **Team:** Investigated age-conditional GANs to transform dog photographs to reflect age-related changes, with the aim of helping owners find missing dogs.
-- **My contribution:** Implemented a conditional GAN and used latent-vector optimization with pixelwise and VGG-based perceptual losses to preserve the dog's identity while changing its apparent age.
-
 **[Korean Sign Language Translation from Human Keypoints](https://github.com/yeopgee/sign-language-keypoint-translation)** · Spring 2025
 
 - **Team:** Aimed to develop a system for translating between Korean Sign Language and Korean text.
 - **My contribution:**  Implemented the sign-to-text component using a BiGRU encoder and a GRU decoder with attention. Preprocessed keypoints, augmented sequences through temporal sampling, and standardize expressions with placeholders.
+
+**[Dog Age Transformation with an Age-Conditional GAN](https://github.com/yeopgee/dog-age-conditional-gan)** · Summer 2025
+
+- **Team:** Investigated age-conditional GANs to transform dog photographs to reflect age-related changes, with the aim of helping owners find missing dogs.
+- **My contribution:** Implemented a conditional GAN and used latent-vector optimization with pixelwise and VGG-based perceptual losses to preserve the dog's identity while changing its apparent age.
 
 **[DACON fraudulent listing detection](https://github.com/yeopgee/dacon-fraudulent-listings)** · Winter 2025
 
